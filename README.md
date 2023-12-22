@@ -1,4 +1,4 @@
-# Android dependencies and repositories I use
+# Android dependencies and repositories
 
 ### Links to the repositories
 🏞️ [Image loader](https://coil-kt.github.io/coil/compose/)
