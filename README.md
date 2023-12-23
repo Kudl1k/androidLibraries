@@ -1,10 +1,10 @@
 # Android dependencies and repositories
 
-### Links to the repositories
+## Links to the repositories
 🏞️ [Image loader](https://coil-kt.github.io/coil/compose/)
 
 
-### Some dependencies that I use
+## Some dependencies that I use
 #### Navigation
 ``` kotlin
 implementation("androidx.navigation:navigation-compose:2.6.0")
