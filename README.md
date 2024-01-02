@@ -1,7 +1,7 @@
 # Android dependencies and repositories
 
 ## Links to the repositories
-🏞️ [Image loader](https://coil-kt.github.io/coil/compose/)
+🏞️ [Image loader](https://coil-kt.github.io/coil/compose/) <br>
 🛜 [HTTP Requests](https://ktor.io/)
 
 ## Some dependencies that I use
