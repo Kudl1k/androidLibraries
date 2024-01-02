@@ -2,7 +2,7 @@
 
 ## Links to the repositories
 🏞️ [Image loader](https://coil-kt.github.io/coil/compose/)
-
+🛜 [HTTP Requests](https://ktor.io/)
 
 ## Some dependencies that I use
 #### Navigation
