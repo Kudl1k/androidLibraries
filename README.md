@@ -1,9 +1,9 @@
 # Android dependencies and repositories
 
-## Links to the repositories
+## Links to the repositories and some interesting stuff
 🏞️ [Image loader](https://coil-kt.github.io/coil/compose/) <br>
-🛜 [HTTP Requests](https://ktor.io/)
-
+🛜 [HTTP Requests](https://ktor.io/) <br>
+🧙 [KMP Wizard](https://kmp.jetbrains.com/)
 ## Some dependencies that I use
 #### Navigation
 ``` kotlin
