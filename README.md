@@ -3,6 +3,7 @@
 ## Links to the repositories and some interesting stuff
 🏞️ [Image loader](https://coil-kt.github.io/coil/compose/) <br>
 🛜 [HTTP Requests](https://ktor.io/) <br>
+🪙 [Koin](https://insert-koin.io/) <br>
 🧙 [KMP Wizard](https://kmp.jetbrains.com/)
 ## Some dependencies that I use
 #### Navigation
