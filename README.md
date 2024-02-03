@@ -4,7 +4,8 @@
 🏞️ [Image loader](https://coil-kt.github.io/coil/compose/) <br>
 🛜 [HTTP Requests](https://ktor.io/) <br>
 🪙 [Koin](https://insert-koin.io/) <br>
-🧙 [KMP Wizard](https://kmp.jetbrains.com/)
+🧙 [KMP Wizard](https://kmp.jetbrains.com/) <br>
+🗡️ [Dagger - Hilt](https://dagger.dev/hilt/)
 ## Some dependencies that I use
 #### Navigation
 ``` kotlin
